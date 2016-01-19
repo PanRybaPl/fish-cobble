@@ -1,0 +1,3 @@
+name: FishCobble
+version: 1.0
+main: pl.panryba.mc.cobble.Plugin
